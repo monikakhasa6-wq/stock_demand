@@ -1,0 +1,6 @@
+{
+  "name": "Inventory Forecast AI",
+  "description": "Inventory demand forecasting application using machine learning to optimize stock levels and predict future requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
